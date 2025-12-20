@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "翠彩花",
+  "base_artist": "ぶいすぽっ！、英 リサ",
+  "createdAt": "2025-12-20T13:42:36.059055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "翠彩花 / 英リサ【#DIAMONDintheROUGH】",
+      "artist": "英リサ.Hanabusa Lisa",
+      "has_synced": false,
+      "path": "select/01_翠彩花___英リサ【_DIAMONDintheROUGH】_英リサ.Hanabusa_Lisa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "翠彩花",
+      "artist": "ぶいすぽっ!、英リサ",
+      "has_synced": false,
+      "path": "select/pl_01_翠彩花_ぶいすぽっ!、英リサ.txt"
+    }
+  ]
+}
